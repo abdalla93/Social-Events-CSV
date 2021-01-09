@@ -7,8 +7,8 @@ The following event occur every month:
 -Thirsty Thursday - Every 3rd Thursday of the month.
 -Friday Fry-up - Last Friday of the month.
 
---To install the project run 'composer install'
+--To install the project run `composer install`
 
---To download CSV file run 'php artisan SocailEvents:create'
+--To download CSV file run `php artisan SocailEvents:create`
 
 ## The download file will be saved in CSV_files.
